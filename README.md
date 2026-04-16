@@ -1,6 +1,6 @@
-# Claude Surge Rules
+# Claude Rule
 
-Standalone Surge ruleset project for Claude and Claude Code traffic.
+Standalone rule project for Claude and Claude Code traffic.
 
 ## Files
 
@@ -8,11 +8,6 @@ Standalone Surge ruleset project for Claude and Claude Code traffic.
 - `dist/Claude_Strict.list`: safer ruleset with lower false-positive risk
 - `dist/Claude_Full.list`: broader ruleset with extra third-party telemetry and IP fallback
 
-## Suggested Surge usage
+## Usage
 
-```ini
-[Rule]
-RULE-SET,https://example.invalid/Claude.list,Claude
-```
-
-Replace the URL with one of the published links.
+Use one of the published raw file URLs from the `dist/` directory in your client.
