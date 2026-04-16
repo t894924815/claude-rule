@@ -1,0 +1,21 @@
+# NAME: Claude
+# AUTHOR: Codex (synthesized from blackmatrix7/ios_rule_script master + open PRs)
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2026-04-16
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 9
+# TOTAL: 14
+DOMAIN,anthropic-com.ghost.io
+DOMAIN,anthropic.auth0.com
+DOMAIN,anthropic.com.cdn.cloudflare.net
+DOMAIN,cdn.usefathom.com
+DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,sentrian.io
+DOMAIN-SUFFIX,statsigapi.net
